@@ -1,4 +1,4 @@
-# ArgaTravel
+# 27 Trans
 Aplikasi travel agent management yang dibangun menggunakan bahasa PHP dengan framework CodeIgniter 3.
 
 Untuk Login sebagai user,
